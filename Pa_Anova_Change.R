@@ -2,11 +2,6 @@
 ### ezANOVA - Change ###
 ########################
 # Parenthood Study Statistical Analysis
-# 16.06.2020 extra edits 22.08.2021
-
-# This scripts provides statistical analysis of START-conditions (first image)
-# using .txt data created before with MATLAB and excel masks
-# also plots are created to visualize the output
 
 # here: without plots. Use the following format for plots:
 # ezPlot(Anova_170_Start, 
